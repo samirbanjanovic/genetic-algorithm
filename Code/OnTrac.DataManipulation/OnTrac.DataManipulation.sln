@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transformers", "Transformers\Transformers.csproj", "{B595F9B3-5A26-4981-8EE5-5894329142EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsers", "Parsers\Parsers.csproj", "{57A551FC-B586-4B7C-A457-D014B2883EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{BFEB87B8-F4BC-44F8-B600-E3DF3C7EBF99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parsers-Transformers", "Parsers-Transformers", "{5FE3DEED-2D05-491D-AF22-116BA6DF01A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTrac.DataManipulation.DataFile", "OnTrac.DataManipulation.DataFile\OnTrac.DataManipulation.DataFile.csproj", "{4FE6C583-7D7B-42B5-924F-297D89F74FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTrac.DataManipulation.FileBuilder", "OnTrac.DataManipulation.FileBuilder\OnTrac.DataManipulation.FileBuilder.csproj", "{7F6B12AC-615F-4D2B-BAD2-CAD612981A77}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://loutfs:8080/tfs/ontrac
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Transformers\\Transformers.csproj
+		SccProjectTopLevelParentUniqueName1 = OnTrac.DataManipulation.sln
+		SccProjectName1 = Transformers
+		SccLocalPath1 = Transformers
+		SccProjectUniqueName2 = Parsers\\Parsers.csproj
+		SccProjectTopLevelParentUniqueName2 = OnTrac.DataManipulation.sln
+		SccProjectName2 = Parsers
+		SccLocalPath2 = Parsers
+		SccProjectUniqueName3 = UnitTests\\UnitTests.csproj
+		SccProjectName3 = UnitTests
+		SccLocalPath3 = UnitTests
+		SccProjectUniqueName4 = OnTrac.DataManipulation.DataFile\\OnTrac.DataManipulation.DataFile.csproj
+		SccProjectName4 = OnTrac.DataManipulation.DataFile
+		SccLocalPath4 = OnTrac.DataManipulation.DataFile
+		SccProjectUniqueName5 = OnTrac.DataManipulation.FileBuilder\\OnTrac.DataManipulation.FileBuilder.csproj
+		SccProjectName5 = OnTrac.DataManipulation.FileBuilder
+		SccLocalPath5 = OnTrac.DataManipulation.FileBuilder
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B595F9B3-5A26-4981-8EE5-5894329142EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B595F9B3-5A26-4981-8EE5-5894329142EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B595F9B3-5A26-4981-8EE5-5894329142EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B595F9B3-5A26-4981-8EE5-5894329142EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A551FC-B586-4B7C-A457-D014B2883EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A551FC-B586-4B7C-A457-D014B2883EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A551FC-B586-4B7C-A457-D014B2883EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A551FC-B586-4B7C-A457-D014B2883EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFEB87B8-F4BC-44F8-B600-E3DF3C7EBF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEB87B8-F4BC-44F8-B600-E3DF3C7EBF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEB87B8-F4BC-44F8-B600-E3DF3C7EBF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEB87B8-F4BC-44F8-B600-E3DF3C7EBF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE6C583-7D7B-42B5-924F-297D89F74FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE6C583-7D7B-42B5-924F-297D89F74FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE6C583-7D7B-42B5-924F-297D89F74FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE6C583-7D7B-42B5-924F-297D89F74FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6B12AC-615F-4D2B-BAD2-CAD612981A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6B12AC-615F-4D2B-BAD2-CAD612981A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6B12AC-615F-4D2B-BAD2-CAD612981A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6B12AC-615F-4D2B-BAD2-CAD612981A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57A551FC-B586-4B7C-A457-D014B2883EB4} = {5FE3DEED-2D05-491D-AF22-116BA6DF01A7}
+		{B595F9B3-5A26-4981-8EE5-5894329142EF} = {5FE3DEED-2D05-491D-AF22-116BA6DF01A7}
+	EndGlobalSection
+EndGlobal

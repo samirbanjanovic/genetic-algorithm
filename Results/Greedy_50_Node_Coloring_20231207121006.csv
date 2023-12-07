@@ -1,0 +1,25 @@
+Node Count, Execution Time (ms), IsComplete, Color Count
+50, 7.3204, True, 18
+50, 1.286, True, 18
+50, 0.5735, True, 18
+50, 0.8821, True, 18
+50, 4.0641, True, 18
+50, 3.5187, True, 18
+50, 0.6749, True, 18
+50, 0.981, True, 18
+50, 0.7461, True, 18
+50, 0.7785, True, 18
+50, 5.0721, True, 18
+50, 3.7081, True, 18
+50, 0.696, True, 18
+50, 0.698, True, 18
+50, 1.112, True, 18
+50, 0.8448, True, 18
+50, 0.9765, True, 18
+50, 6.1888, True, 18
+50, 4.3784, True, 18
+50, 0.6672, True, 18
+
+
+Select First point at Random,False
+Average Execution Time,2.25836
